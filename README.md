@@ -4,9 +4,9 @@ This firmware turns an ESP8266 into a network cable tester, controlled via a web
 
 ## Hardware Requirements
 
-1.  1 ESP8266 Development Board (NodeMCU, Wemos D1 Mini, etc.).
-2.  2 RJ45 Breakout Boards or connectors.
-3.  8 LEDs.
+   1 ESP8266 Development Board (NodeMCU, Wemos D1 Mini, etc.).  
+   2 RJ45 Breakout Boards or connectors.  
+   8 LEDs.  
 
 ## Pinout
 

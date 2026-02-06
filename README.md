@@ -1,6 +1,6 @@
 # ethernet-tester
 
-This firmware turns an ESP8266 into a network cable tester, controlled via a web interface.. 
+This firmware turns an ESP8266 into a network cable tester, controlled via a web interface.
 
 ## Hardware Requirements
 

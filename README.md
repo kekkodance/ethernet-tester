@@ -58,5 +58,5 @@ No resistors were used in my version, if you want to include them then do so (22
 
 ## Safety Warning
 
-**Do not connect this device to a live switch, router, or PoE (Power over Ethernet) port.**
+**Do not connect this device to a live switch, router, or PoE (Power over Ethernet) port.**  
 The **48V** provided by PoE will **immediately** destroy the ESP8266. Use this device only on disconnected cables.
